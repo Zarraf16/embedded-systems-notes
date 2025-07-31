@@ -18,8 +18,9 @@
 ## 🧠 4. Microcontroller vs Microprocessor
 - **Microcontroller** = microprocessor + memory + I/O in one chip.
 - CPU executes instructions, performs logic, math, and data transfer.
-- CPU inludes:
-- Registers store system state; ALU handles arithmetic/logical ops.
+- CPU Includes: Registers, ALU, interrupt controller, debug interface, clock system, power management.
+- Registers store system state.
+- ALU handles arithmetic/logical ops.
 - **Interrupt Controller** manages asynchronous events.
 - Debug Interface allows real-time program troubleshooting.
 - Clock system synchronizes all components.
